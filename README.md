@@ -44,6 +44,7 @@ import { functionName } from './path/to/utilityFile';
 // Use the utility function in your React component
 // Example:
 const result = functionName(argument1, argument2);
+```
 
 ## Contributing
 Contributions to this repository are welcome! If you have any suggestions, improvements, 
